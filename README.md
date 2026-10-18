@@ -110,6 +110,6 @@ Released under the [MIT License](LICENSE). Use it, fork it, ship it.
 
 <div align="center">
 
-Built with ⚡ by **Saravanan P** · Villupuram, Tamil Nadu
+Built by **Saravanan P** ·
 
 </div>
