@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="DropWheel banner" width="100%"/>
+<img src="banner.svg" alt="DropWheel banner" width="100%"/>
 
 ### ⚡ Drag · Hold · Drop · Converted
 
